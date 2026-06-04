@@ -88,16 +88,7 @@ I'm documenting my 100-day journey of learning programming.
 - Game logic
 - Project organization
 
-## Skills Gained
-- Python Fundamentals
-- Variables and Data Types
-- User Input and Output
-- Conditional Statements
-- Loops
-- Functions
-- Lists
-- Dictionaries
-- Random Module
+
 - Debugging
 - Problem Solving
 - Game Development Basics
