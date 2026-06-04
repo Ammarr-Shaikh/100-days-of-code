@@ -2,7 +2,7 @@
 
 Hi, I'm Ammar.
 
-I'm documenting my 100-day journey of learning programming, computer science, and AI/ML.
+I'm documenting my 100-day journey of learning programming.
 
 ## Progress
 ## What I Learned in the First 14 Days
