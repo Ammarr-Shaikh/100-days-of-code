@@ -1,2 +1,8 @@
-# 100-days-of-code
-My 100-day programming and AI/ML learning journey.
+# 100 Days of Code
+
+Hi, I'm Ammar.
+
+I'm documenting my 100-day journey of learning programming, computer science, and AI/ML.
+
+## Progress
+
